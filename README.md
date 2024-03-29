@@ -36,7 +36,3 @@ This project relies on the following technologies:
 ## Usage
 
 Once the platform is running, the interviewer and interviewee can join the interview session by following the instructions on the home page. The platform will guide both parties through the interview process, providing them with real-time communication and video calling features to facilitate the interview. The CodeMirror editor can be used to edit and debug code together, allowing for easier collaboration and problem-solving.
-
-## Contributions
-
-Contributions to this project are welcome. To contribute, please fork the repository and submit a pull request with your changes.
