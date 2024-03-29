@@ -114,13 +114,6 @@ const Video = () => {
    
      
     <div className="video-flex">
-    <div className="name" style={{textAlign:"center" ,height:"90px",width:"300px" ,alignItems:"center"}}>
-    {/* <h1 style={{textAlign:"center"}}>CodeMeet</h1> */}
-    
-    <img src={codeLogo4} alt="logo" 
-    style={{height:"90px", objectFit:"cover"}}
-    />
-      </div>
     <div className="flexx">
 
       {stream ? (
